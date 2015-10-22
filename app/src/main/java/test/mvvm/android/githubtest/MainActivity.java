@@ -27,7 +27,10 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        Log.e("aaaa","aa");
+        Log.e("aaaaaaassssadfas", "aa");
+        Log.e("aaaaaaassssadfas","aa");
+        Log.e("aaaaaaassssadfas","aa");
+        Log.e("aaaaaaassssadfas","aa");
     }
 
     @Override
