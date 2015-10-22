@@ -28,9 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Log.e("aaaaaaassssadfas", "aa");
-        Log.e("aaaaaaassssadfas","aa");
-        Log.e("aaaaaaassssadfas","aa");
-        Log.e("aaaaaaassssadfas","aa");
+
     }
 
     @Override
